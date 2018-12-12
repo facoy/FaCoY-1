@@ -11,15 +11,15 @@ https://github.com/facoy/facoy/tree/release-1.0/facoy
 ## Evaluation data
 
 ### RQ1
-https://github.com/facoy/facoy/tree/release-1.0/evaluation/onlinequery
+https://github.com/facoy/FaCoY-1/tree/release-1.0/evaluation/onlinequery
 
 ### RQ2
-https://github.com/facoy/facoy/tree/release-1.0/evaluation/bigclone
+https://github.com/facoy/FaCoY-1/tree/release-1.0/evaluation/bigclone
 
 ### RQ3
-https://github.com/facoy/facoy/tree/release-1.0/evaluation/dyclink
+https://github.com/facoy/FaCoY-1/tree/release-1.0/evaluation/dyclink
 
 ### RQ4
-https://github.com/facoy/facoy/tree/release-1.0/evaluation/defects4J
+https://github.com/facoy/FaCoY-1/tree/release-1.0/evaluation/defects4J
       
       
